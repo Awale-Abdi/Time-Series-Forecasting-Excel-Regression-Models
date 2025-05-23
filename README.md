@@ -65,23 +65,13 @@ This playbook demonstrates applied forecasting skills, practical regression anal
 
 ## 📁 Project Structure
 
-- Transposed Original Data/ – cleaned monthly raw data (2005–2020)
-- Input Sheet/ – core columns (date, sales, period, year, dummy vars)
-- Seasonal Factors Sheet/ – moving averages and seasonal ratios
-- Seasonal Input Sheet/ – deseasonalized values for modeling
-- Linear Regression.xlsx
-- Exponential Regression.xlsx
-- Quadratic Regression.xlsx
-- Linear w Dummy Variables.xlsx
-- Exponential w Dummy Variables.xlsx
-- Quadratic w Dummy Variables.xlsx
-- Deseasonalized Linear.xlsx
-- Deseasonalized Exponential.xlsx
-- Deseasonalized Quadratic.xlsx
-- FINAL FORECAST (Quad w Dumm).xlsx – selected best-fit model
-- LINE GRAPH/ – visualization of actual vs forecasted values
-- Executive Summary.docx – brief to management
-- Time Series Forecasting Playbook – Excel Models.docx – full methodology guide
+- `Datasets/`  
+  - `hardware_retail_sales_raw.xlsx` – unprocessed original sales data
+
+- `Outputs/`  
+  - `Hardware and Tools – Awale Abdi’s Results.xlsx` – full regression analysis + forecast  
+  - `Time Series Forecasting Playbook – Excel Models.docx` – complete modeling guide  
+  - `Executive Brief – Sales Forecast Summary.docx` – written stakeholder summary
 
 ---
 
