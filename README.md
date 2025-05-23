@@ -1,35 +1,36 @@
-# 📈 Predictive Sales Modeling – Excel Time Series Forecasting (2005–2020)
+# 📈 Hardware Retail Sales Forecasting – Excel Time Series Models (2005–2020)
 
-A comprehensive forecasting project developed during graduate studies in Business Analytics. This solo project covers the full time series modeling pipeline in Microsoft Excel using 15 years of monthly sales data from the U.S. hardware and tools industry. The goal was to produce a reliable 12-month forecast for supply chain and operational planning.
+This solo forecasting project models 15 years of U.S. hardware and tools retail sales data using Excel-based time series techniques. Built as part of a graduate Business Analytics curriculum, the project walks through end-to-end modeling, from seasonal factor engineering to regression-based forecasting and business reporting.
 
-The repository also includes a reusable Forecasting Cheat Sheet that documents all modeling steps, formulas, and evaluation workflows. It serves as a practical reference for any future forecasting tasks involving time series and seasonal patterns in Excel.
+Included is a reusable forecasting playbook that documents every methodology step in a practical, modular format for future time series modeling tasks.
 
 ---
 
 ## 🎯 Objective
 
-To forecast hardware industry sales for September 2020 to August 2021 based on 15 years of historical monthly data, using multiple time series modeling techniques. The forecast will inform resource planning for materials, staffing, and budget allocation.
+To forecast monthly U.S. hardware retail sales for the 12-month period of September 2020 to August 2021 using multiple regression models. This forecast is intended to support resource planning in supply chain, staffing, and financial operations.
 
-Project goals:
-- Identify long-term trend and monthly seasonality
-- Apply and compare multiple regression-based forecasting methods
-- Select the most accurate model based on Adjusted R² and RMSE
-- Generate and present a month-by-month forecast for operational use
-- Document the modeling process for future reuse and reference
+Key goals:
+- Identify trends and monthly seasonality in historical data
+- Apply and compare multiple forecasting models in Excel
+- Evaluate models using Adjusted R² and RMSE
+- Communicate insights clearly for operational leadership
+- Provide a reusable modeling framework for future use
 
 ---
 
-## 📘 Forecasting Cheat Sheet
+## 📘 Time Series Forecasting Playbook – Excel Models
 
-This project includes a detailed **Forecasting Cheat Sheet**, authored to provide a repeatable Excel-based workflow for sales forecasting. It demonstrates the ability to:
+This project includes a full Excel-based forecasting playbook that details the setup, execution, and evaluation of time series models. Designed to be reused, it documents how to:
 
-- Design and implement time series regression models
-- Perform deseasonalization using moving averages and seasonal indices
-- Calculate and interpret error metrics (MSE, RMSE)
-- Apply dummy variables for seasonality
-- Select models based on visual and statistical diagnostics
+- Clean and prepare time-indexed sales data
+- Create period indices and seasonal dummy variables
+- Generate seasonal indices using moving averages
+- Build and evaluate multiple regression models in Excel
+- Compute error metrics (MSE, RMSE)
+- Visualize actual vs. forecasted sales
 
-It includes step-by-step setups for:
+### Models Covered:
 - Linear Regression
 - Exponential Regression
 - Quadratic Regression
@@ -40,31 +41,32 @@ It includes step-by-step setups for:
 - Deseasonalized Exponential Regression
 - Deseasonalized Quadratic Regression
 
-This cheat sheet can serve analysts, students, or professionals looking for a practical Excel-based forecasting framework.
+This playbook demonstrates applied forecasting skills, practical regression analysis, and Excel modeling fluency — all in a single documented pipeline.
 
 ---
 
 ## 🧾 Project Scope
 
-**Data**: Monthly hardware and tools sales in the U.S. from September 2005 to August 2020
+**Dataset**: U.S. hardware and tools retail sales data from Sep 2005 – Aug 2020 (monthly)
 
-**Tasks**:
-- Clean and organize raw Excel data into structured input format
-- Generate period and date indexes
-- Create dummy variables and seasonal factors
-- Apply all forecasting model types
-- Evaluate model fit using Adjusted R² and RMSE
-- Visualize forecasted sales vs. actuals
-- Deliver business-readable insights to a hypothetical operations manager
+**Key Steps**:
+- Transpose and clean raw Excel sales data
+- Add time-period indices and extract year/month from date
+- Create seasonal dummy variables
+- Calculate seasonal factors using ratio-to-MA method
+- Test and compare multiple models
+- Evaluate performance using RMSE and Adjusted R²
+- Visualize forecasts with overlaid line graphs
+- Communicate final results in an executive summary format
 
 ---
 
 ## 📁 Project Structure
 
 - Transposed Original Data/ – cleaned monthly raw data (2005–2020)
-- Input Sheet/ – base columns: date, sales, period, year, month
-- Seasonal Factors Sheet/ – moving average and seasonal ratio calculations
-- Seasonal Input Sheet/ – sales with seasonal factor assignments
+- Input Sheet/ – core columns (date, sales, period, year, dummy vars)
+- Seasonal Factors Sheet/ – moving averages and seasonal ratios
+- Seasonal Input Sheet/ – deseasonalized values for modeling
 - Linear Regression.xlsx
 - Exponential Regression.xlsx
 - Quadratic Regression.xlsx
@@ -74,39 +76,39 @@ This cheat sheet can serve analysts, students, or professionals looking for a pr
 - Deseasonalized Linear.xlsx
 - Deseasonalized Exponential.xlsx
 - Deseasonalized Quadratic.xlsx
-- FINAL FORECAST (Quad w Dumm).xlsx – best-fit model (Adj. R² = 91.1%)
-- LINE GRAPH/ – combined line plot of actual vs forecasted values
-- Executive Summary.docx – written communication for operations management
-- Forecasting Cheat Sheet.docx – complete modeling guide with formulas, logic, and error evaluation
+- FINAL FORECAST (Quad w Dumm).xlsx – selected best-fit model
+- LINE GRAPH/ – visualization of actual vs forecasted values
+- Executive Summary.docx – brief to management
+- Time Series Forecasting Playbook – Excel Models.docx – full methodology guide
 
 ---
 
 ## 🛠️ Tools Used
 
-- 📊 Microsoft Excel – data transformation, regression modeling, visualization
-- 📈 Excel Data Analysis Toolpak – for linear, exponential, and quadratic regressions
-- 🧮 Manual dummy variable creation – to capture seasonal structure
-- 🧠 Visual diagnostics + Adjusted R² – to guide model selection
-- 📝 Microsoft Word – for structured business reporting
+- 📊 Microsoft Excel – data modeling, regression analysis, visualization  
+- 📈 Excel Data Analysis Toolpak – for regression modeling  
+- 🧮 Manual dummy variable creation – to model monthly seasonality  
+- 📉 Moving average method – for seasonal factor generation  
+- 📝 Microsoft Word – for final documentation and reporting  
 
 ---
 
 ## 💡 Skills Demonstrated
 
-- Predictive sales modeling and time series forecasting
-- Regression modeling in Excel with seasonal components
-- Deseasonalization and seasonal index construction
-- Residual analysis, RMSE, and model comparison
-- Business report writing and operational communication
-- Reusable forecasting documentation for future deployment
+- Predictive sales forecasting using Excel
+- Time series modeling with seasonal and trend components
+- Regression diagnostics: RMSE, residuals, Adjusted R²
+- Dummy variable creation and deseasonalization techniques
+- Visual storytelling through forecast graphs
+- Business reporting for supply chain and operational use
+- Documentation of reusable forecasting methodology
 
 ---
 
 ## 📊 Final Output
 
-The 12-month forecast for Sep 2020–Aug 2021 is stored in the `FINAL FORECAST (Quad w Dumm).xlsx` file, selected based on a strong Adjusted R² of 91.1%. This forecast balances long-term trend and monthly seasonality, making it suitable for supply chain and resource planning.
+The final forecast (Sep 2020–Aug 2021) is provided in `FINAL FORECAST (Quad w Dumm).xlsx`, based on the top-performing model: **Quadratic Regression with Monthly Dummy Variables**, achieving an **Adjusted R² of 91.1%**.
 
-The `LINE GRAPH` tab visually compares actual vs. projected values for quick executive reference.
+See the `LINE GRAPH` sheet for visual comparison of actual vs. predicted values.
 
 ---
-
