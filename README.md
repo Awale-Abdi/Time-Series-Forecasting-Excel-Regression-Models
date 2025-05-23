@@ -66,7 +66,7 @@ This playbook demonstrates applied forecasting skills, practical regression anal
 ## 📁 Project Structure
 
 - `Datasets/`  
-  - `hardware_retail_sales_raw.xlsx` – unprocessed original sales data
+  - `Hardware and Tools - Original Dataset.xlsx` – unprocessed original sales data
 
 - `Outputs/`  
   - `Hardware and Tools – Awale Abdi’s Results.xlsx` – full regression analysis + forecast  
