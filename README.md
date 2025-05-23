@@ -21,14 +21,16 @@ Key goals:
 
 ## 📘 Time Series Forecasting Playbook – Excel Models
 
-This project includes a full Excel-based forecasting playbook that details the setup, execution, and evaluation of time series models. Designed to be reused, it documents how to:
+This project includes a comprehensive Excel-based forecasting playbook authored by me. It outlines the complete process for setting up, executing, and evaluating time series models. Designed for reuse, the playbook was created with the intention of supporting future students, professionals, and teams working with Excel-based forecasting—whether in academic, operational, or business planning contexts.
 
-- Clean and prepare time-indexed sales data
-- Create period indices and seasonal dummy variables
-- Generate seasonal indices using moving averages
-- Build and evaluate multiple regression models in Excel
-- Compute error metrics (MSE, RMSE)
-- Visualize actual vs. forecasted sales
+It covers how to:
+
+- Clean and prepare time-indexed sales data  
+- Create period indices and seasonal dummy variables  
+- Generate seasonal indices using moving averages  
+- Build and evaluate multiple regression models in Excel  
+- Compute error metrics (MSE, RMSE)  
+- Visualize actual vs. forecasted sales  
 
 ### Models Covered:
 - Linear Regression
