@@ -51,7 +51,7 @@ This playbook demonstrates applied forecasting skills, practical regression anal
 
 **Dataset**: U.S. hardware and tools retail sales data from Sep 2005 – Aug 2020 (monthly)
 
-**Key Steps**:
+**Key Steps Applied**:
 - Transpose and clean raw Excel sales data
 - Add time-period indices and extract year/month from date
 - Create seasonal dummy variables
@@ -87,11 +87,11 @@ This playbook demonstrates applied forecasting skills, practical regression anal
 
 ## 🛠️ Tools Used
 
-- 📊 Microsoft Excel – data modeling, regression analysis, visualization  
-- 📈 Excel Data Analysis Toolpak – for regression modeling  
-- 🧮 Manual dummy variable creation – to model monthly seasonality  
-- 📉 Moving average method – for seasonal factor generation  
-- 📝 Microsoft Word – for final documentation and reporting  
+📊 Microsoft Excel – data modeling, regression analysis, visualization  
+📈 Excel Data Analysis Toolpak – for regression modeling  
+🧮 Manual dummy variable creation – to model monthly seasonality  
+📉 Moving average method – for seasonal factor generation  
+📝 Microsoft Word – for final documentation and reporting  
 
 ---
 
