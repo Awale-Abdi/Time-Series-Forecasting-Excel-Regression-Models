@@ -1,8 +1,8 @@
 <h1 align="center">📈 Hardware Retail Sales Forecasting – Excel Time Series Models Over 15 Years (2005–2020)</h1>
 
-This solo forecasting project models 15 years of U.S. hardware and tools retail sales data using Excel-based time series techniques. Built as part of a graduate Business Analytics curriculum, the project walks through end-to-end modeling, from seasonal factor engineering to regression-based forecasting and business reporting.
+This Excel-based time series forecasting project analyzes 15 years of U.S. hardware and tools retail sales data to generate a 12-month predictive sales forecast. Completed as part of a graduate-level Business Analytics program, the project showcases end-to-end forecasting capabilities; covering seasonal decomposition, dummy variable integration, regression modeling, and error evaluation.
 
-Included is a reusable forecasting playbook that documents every methodology step in a practical, modular format for future time series modeling tasks.
+The final forecast is presented in a concise executive summary tailored for operational stakeholders, delivering clear, actionable insights. Also included is a reusable Time Series Forecasting Playbook authored to document the complete modeling workflow. It serves as both a practical forecasting guide and evidence of applied proficiency in time series forecasting techniques using Excel.
 
 ---
 
