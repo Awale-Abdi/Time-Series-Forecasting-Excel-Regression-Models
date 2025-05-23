@@ -104,3 +104,12 @@ The final forecast (Sep 2020–Aug 2021) is provided in `FINAL FORECAST (Quad w 
 See the `LINE GRAPH` sheet for visual comparison of actual vs. predicted values.
 
 ---
+
+### **Contact Me**
+
+For questions or collaboration, reach out via:
+
+- Awaleiabdi@outlook.com
+
+- [LinkedIn](https://www.linkedin.com/in/awale-abdi/)
+
