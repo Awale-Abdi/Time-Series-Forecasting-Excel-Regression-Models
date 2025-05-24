@@ -2,7 +2,9 @@
 
 This Excel-based time series forecasting project analyzes 15 years of U.S. hardware and tools retail sales data to generate a 12-month predictive sales forecast. Completed as part of a graduate-level Business Analytics program, the project showcases end-to-end forecasting capabilities—covering seasonal decomposition, dummy variable integration, regression modeling, and error evaluation.
 
-📊 A separate *Forecast vs. Actual Sales* validation sheet is included to compare the forecast against real 2021 Census retail sales figures. This comparison demonstrates forecast realism and business applicability using Mean Absolute Percentage Error (MAPE) and trend visualization. The final forecast is furthere presented in a concise executive summary tailored for operational stakeholders (a hypothetical boss), delivering clear, actionable insights. Also included is a reusable Time Series Forecasting Playbook authored to document the complete modeling workflow; it serves as both a practical forecasting guide and evidence of applied proficiency in time series forecasting techniques using Excel.
+📊 A separate *Forecast vs. Actual Sales* validation sheet is included to compare the forecast against real 2021 Census retail sales figures. This comparison demonstrates forecast realism and business applicability using Mean Absolute Percentage Error (MAPE) and trend visualization. 
+
+The final forecast is furthere presented in a concise executive summary tailored for operational stakeholders (a hypothetical boss), delivering clear, actionable insights. Also included is a reusable Time Series Forecasting Playbook authored to document the complete modeling workflow; it serves as both a practical forecasting guide and evidence of applied proficiency in time series forecasting techniques using Excel.
 
 ---
 
