@@ -4,7 +4,7 @@ This Excel-based time series forecasting project analyzes 15 years of U.S. hardw
 
 📊 A separate *Forecast vs. Actual Sales* validation sheet is included to compare the forecast against real 2021 Census retail sales figures. This comparison demonstrates forecast realism and business applicability using Mean Absolute Percentage Error (MAPE) and trend visualization. 
 
-The final forecast is furthere presented in a concise executive summary tailored for operational stakeholders (a hypothetical boss), delivering clear, actionable insights. Also included is a reusable Time Series Forecasting Playbook authored to document the complete modeling workflow; it serves as both a practical forecasting guide and evidence of applied proficiency in time series forecasting techniques using Excel.
+The final forecast is furthere presented in a concise executive summary tailored for operational stakeholders, delivering clear, actionable insights. Also included is a reusable Time Series Forecasting Playbook authored to document the complete modeling workflow; it serves as both a practical forecasting guide and evidence of applied proficiency in time series forecasting techniques using Excel.
 
 ---
 
