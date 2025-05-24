@@ -99,9 +99,7 @@ This playbook demonstrates applied forecasting skills, practical regression anal
 
 ## 📊 Final Output
 
-The final forecast (Sep 2020–Aug 2021) is provided in `FINAL FORECAST (Quad w Dumm).xlsx`, based on the top-performing model: **Quadratic Regression with Monthly Dummy Variables**, achieving an **Adjusted R² of 91.1%**.
-
-See the `LINE GRAPH` sheet for visual comparison of actual vs. predicted values.
+The final forecast (Sep 2020–Aug 2021) is provided in FINAL FORECAST (Quad w Dumm) sheet of the `Hardware and Tools – Awale Abdi’s Results.xlsx`, based on the top-performing model: **Quadratic Regression with Monthly Dummy Variables**, achieving an **Adjusted R² of 91.1%**.
 
 ---
 
