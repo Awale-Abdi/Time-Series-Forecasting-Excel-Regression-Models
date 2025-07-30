@@ -94,7 +94,7 @@ The final forecast (Sep 2020–Aug 2021) is provided in the **FINAL FORECAST (Qu
 
 Forecast validation against 2021 U.S. Census data is included in the `Forecast Vs. Actual Sales.xlsx`, with a **Mean Absolute Percentage Error of 9.3%**, showing strong alignment with real-world demand.
 
-### **Contact Me**
+## **Contact Me**
 
 For questions or collaboration, reach out via:
 
