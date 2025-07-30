@@ -8,8 +8,6 @@ The core analysis—including model construction, validation, and communication�
 
 The final forecast is presented in a concise executive summary tailored for operational stakeholders, delivering clear, actionable insights. Also included is a reusable Time Series Forecasting Playbook authored to document the complete modeling workflow. It serves as both a practical forecasting guide and evidence of applied proficiency in time series forecasting techniques using Excel.
 
----
-
 ## 🎯 Objective
 
 To forecast monthly U.S. hardware retail sales for the 12-month period of September 2020 to August 2021 using multiple regression models. This forecast is intended to support resource planning in supply chain, staffing, and financial operations.
