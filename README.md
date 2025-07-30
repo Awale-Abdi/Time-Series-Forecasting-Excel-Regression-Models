@@ -20,8 +20,6 @@ Key goals:
 - Communicate insights clearly for operational leadership  
 - Provide a reusable modeling framework for future use  
 
----
-
 ## 📘 Time Series Forecasting Playbook – Excel Models
 
 This project includes a comprehensive Excel-based forecasting playbook authored by me. It outlines the complete process for setting up, executing, and evaluating time series models. Designed for reuse, the playbook was created with the intention of supporting future students, professionals, and teams working with Excel-based forecasting—whether in academic, operational, or business planning contexts.
@@ -46,8 +44,6 @@ It covers how to:
 - Deseasonalized Exponential Regression  
 - Deseasonalized Quadratic Regression  
 
----
-
 ## 🧾 Project Scope
 
 **Dataset**: U.S. hardware and tools retail sales data from Sep 2005 – Aug 2020 (monthly)
@@ -62,8 +58,6 @@ It covers how to:
 - Visualize forecasts and trend alignment  
 - Communicate results in a visual + written executive summary  
 
----
-
 ## 📁 Project Structure
 
 - `Datasets/`  
@@ -75,8 +69,6 @@ It covers how to:
   - `Time Series Forecasting Playbook – Excel Models.docx` – complete modeling guide  
   - `Executive Brief – Sales Forecast Summary.docx` – written stakeholder summary  
 
----
-
 ## 🛠️ Tools Used
 
 📊 Microsoft Excel – data modeling, regression analysis, visualization  
@@ -84,8 +76,6 @@ It covers how to:
 🧮 Manual dummy variable creation – to model monthly seasonality  
 📉 Moving average method – for seasonal factor generation  
 📝 Microsoft Word – for final documentation and reporting  
-
----
 
 ## 💡 Skills Demonstrated
 
@@ -98,15 +88,11 @@ It covers how to:
 - Business reporting for supply chain and operational use  
 - Documentation of reusable forecasting methodology  
 
----
-
 ## 📊 Final Output
 
 The final forecast (Sep 2020–Aug 2021) is provided in the **FINAL FORECAST (Quad w Dumm)** sheet of the `Hardware and Tools – Awale Abdi’s Results.xlsx`, based on the top-performing model: **Quadratic Regression with Monthly Dummy Variables**, achieving an **Adjusted R² of 91.1%**.
 
 Forecast validation against 2021 U.S. Census data is included in the `Forecast Vs. Actual Sales.xlsx`, with a **Mean Absolute Percentage Error of 9.3%**, showing strong alignment with real-world demand.
-
----
 
 ### **Contact Me**
 
